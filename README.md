@@ -14,9 +14,10 @@ kill $(lsof -t -i:8000)
 ```
 see last 50 lines of server log
 ```
-tail -n 50 comender.log
+tail -n 50 codemender.log
 ```
 
 trail server log file in real time
 ```
-tail -f comender.log
+tail -f codemender.log
+```
