@@ -1,5 +1,5 @@
 Command to start server: 
-```
+```bash
 nohup python manage.py runserver 0.0.0.0:8000 >> comender.log &
 ```
 
